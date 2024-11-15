@@ -1,0 +1,10 @@
+1	08:21:17	Realtime started	
+1	08:25:34	File created	
+1	08:25:34	File saved as C:\Users\Erin\Documents\ScienceRV\ScienceRV_Practice\Calibrations\20230513_082453.qca	
+1	08:25:35	Calibration started	
+1	08:25:36	Calibration finished after 1.6010 seconds	
+1	08:25:37	File saved as C:\Users\Erin\Documents\ScienceRV\ScienceRV_Practice\Calibrations\20230513_082453.qca	
+1	08:25:45	File closed	
+1	08:25:48	Realtime started	
+1	15:07:32	Disconnected	
+1	15:07:32	Error(s) when waiting for realtime frame. Double-click for more information	Error(s) when waiting for realtime frame:  001 - code 09 - camera 03 (192.168.254.5) : The camera has stopped communicating. 002 - code 09 - camera 04 (192.168.254.6) : The camera has stopped communicating.

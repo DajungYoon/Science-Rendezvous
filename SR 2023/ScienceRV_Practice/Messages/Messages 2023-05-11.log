@@ -1,0 +1,134 @@
+1	11:32:15	Realtime started	
+1	12:00:17	Disconnected	
+1	12:00:17	Error(s) when waiting for realtime frame. Double-click for more information	Error(s) when waiting for realtime frame:  001 - code 09 - camera 02 (192.168.254.7) : The camera has stopped communicating. 002 - code 09 - camera 03 (192.168.254.5) : The camera has stopped communicating. 003 - code 09 - camera 04 (192.168.254.6) : The camera has stopped communicating. 004 - code 09 - camera 05 (192.168.254.4) : The camera has stopped communicating.
+1	12:32:34	Realtime started	
+1	12:44:26	Disconnected	
+1	12:44:31	Realtime started	
+1	12:45:26	File created	
+1	12:45:26	File saved as C:\Users\Erin\Documents\ScienceRV\ScienceRV_Practice\Calibrations\20230511_124455.qca	
+1	12:45:26	Calibration started	
+1	12:45:26	Calibration finished after 0.0221 seconds	
+1	12:45:27	File saved as C:\Users\Erin\Documents\ScienceRV\ScienceRV_Practice\Calibrations\20230511_124455_FAILED.qca	
+1	12:45:53	File closed	
+1	12:46:27	Realtime started	
+1	12:47:21	File created	
+1	12:47:22	File saved as C:\Users\Erin\Documents\ScienceRV\ScienceRV_Practice\Calibrations\20230511_124650.qca	
+1	12:47:22	Calibration started	
+1	12:47:25	Calibration finished after 2.4643 seconds	
+1	12:47:25	File saved as C:\Users\Erin\Documents\ScienceRV\ScienceRV_Practice\Calibrations\20230511_124650.qca	
+1	12:48:01	File closed	
+1	12:48:08	Realtime started	
+1	12:48:52	File created	
+1	12:48:52	File saved as C:\Users\Erin\Documents\ScienceRV\ScienceRV_Practice\Calibrations\20230511_124821.qca	
+1	12:48:53	Calibration started	
+1	12:48:53	Calibration finished after 0.0206 seconds	
+1	12:48:53	File saved as C:\Users\Erin\Documents\ScienceRV\ScienceRV_Practice\Calibrations\20230511_124821_FAILED.qca	
+1	12:49:01	File closed	
+1	12:49:10	Realtime started	
+1	12:49:49	File created	
+1	12:49:49	File saved as C:\Users\Erin\Documents\ScienceRV\ScienceRV_Practice\Calibrations\20230511_124918.qca	
+1	12:49:50	Calibration started	
+1	12:49:50	Calibration finished after 0.0230 seconds	
+1	12:49:50	File saved as C:\Users\Erin\Documents\ScienceRV\ScienceRV_Practice\Calibrations\20230511_124918_FAILED.qca	
+1	12:50:14	File closed	
+1	12:50:18	Realtime started	
+1	12:50:55	File created	
+1	12:50:55	File saved as C:\Users\Erin\Documents\ScienceRV\ScienceRV_Practice\Calibrations\20230511_125024.qca	
+1	12:50:55	Calibration started	
+1	12:50:58	Calibration finished after 2.3408 seconds	
+1	12:50:58	File saved as C:\Users\Erin\Documents\ScienceRV\ScienceRV_Practice\Calibrations\20230511_125024.qca	
+1	12:51:50	File closed	
+1	12:51:51	Realtime started	
+1	12:52:43	File created	
+1	12:52:43	File saved as C:\Users\Erin\Documents\ScienceRV\ScienceRV_Practice\Calibrations\20230511_125212.qca	
+1	12:52:44	Calibration started	
+1	12:52:44	Calibration finished after 0.0197 seconds	
+1	12:52:44	File saved as C:\Users\Erin\Documents\ScienceRV\ScienceRV_Practice\Calibrations\20230511_125212_FAILED.qca	
+1	12:52:54	File closed	
+1	12:53:03	Realtime started	
+1	12:53:44	File created	
+1	12:53:45	File saved as C:\Users\Erin\Documents\ScienceRV\ScienceRV_Practice\Calibrations\20230511_125313.qca	
+1	12:53:45	Calibration started	
+1	12:53:47	Calibration finished after 1.8996 seconds	
+1	12:53:47	File saved as C:\Users\Erin\Documents\ScienceRV\ScienceRV_Practice\Calibrations\20230511_125313.qca	
+1	12:55:10	File closed	
+1	12:55:12	Realtime started	
+1	12:56:15	File created	
+1	13:09:06	File saved as C:\Users\Erin\Documents\ScienceRV\ScienceRV_Practice\kaito_static.qtm	
+1	13:11:59	File closed	
+1	13:12:00	Realtime started	
+1	13:12:59	File created	
+1	13:13:28	AIM model application results, 1 model partially applied	1 model partially applied.  Note: Partial success, or failure to identify, usually indicates that the model needs more training.  Correct the identification by hand and then add the fully identified file to the AIM model. Use "Add to existing model(s)" to improve AIM performance. 
+1	13:26:51	File saved as C:\Users\Erin\Documents\ScienceRV\ScienceRV_Practice\kaito_dynamic.qtm	
+1	13:26:51	File closed	
+1	13:26:53	Realtime started	
+1	13:27:55	File created	
+1	13:28:24	File saved as C:\Users\Erin\Documents\ScienceRV\ScienceRV_Practice\paddle_quick_test.qtm	
+1	13:28:45	File closed	
+1	13:28:47	Realtime started	
+1	13:29:50	File created	
+1	13:32:26	File closed	
+1	13:32:28	Realtime started	
+1	13:37:22	File created	
+1	13:37:28	No skeleton definition(s) could be created. Verify that the markers are labeled and prefixed correctly.	No skeleton definition(s) could be created. Verify that the markers are labeled and prefixed correctly.
+1	13:38:56	File saved as C:\Users\Erin\Documents\ScienceRV\ScienceRV_Practice\simon_jump.qtm	
+1	13:39:09	File closed	
+1	13:39:10	Realtime started	
+1	13:40:07	File created	
+1	13:41:31	File saved as C:\Users\Erin\Documents\ScienceRV\ScienceRV_Practice\kayla_jump.qtm	
+1	13:41:35	File closed	
+1	13:41:37	Realtime started	
+1	13:42:28	File created	
+1	13:42:28	File saved as C:\Users\Erin\Documents\ScienceRV\ScienceRV_Practice\Calibrations\20230511_134157.qca	
+1	13:42:29	Calibration started	
+1	13:42:29	Calibration finished after 0.9433 seconds	
+1	13:42:30	File saved as C:\Users\Erin\Documents\ScienceRV\ScienceRV_Practice\Calibrations\20230511_134157.qca	
+1	13:42:39	File closed	
+1	13:42:44	Realtime started	
+1	13:44:23	File created	
+1	13:45:04	File saved as C:\Users\Erin\Documents\ScienceRV\ScienceRV_Practice\simon_jump2.qtm	
+1	13:45:21	File closed	
+1	13:45:23	Realtime started	
+1	13:50:34	File created	
+1	13:52:26	File saved as C:\Users\Erin\Documents\ScienceRV\ScienceRV_Practice\ali_jump.qtm	
+1	13:52:26	File closed	
+1	13:52:28	Realtime started	
+1	14:18:59	File created	
+1	14:19:04	1 model failed to apply	 Note: Partial success, or failure to identify, usually indicates that the model needs more training.  Correct the identification by hand and then add the fully identified file to the AIM model. Use "Add to existing model(s)" to improve AIM performance. 
+1	14:19:36	File closed	
+1	14:19:37	Realtime started	
+1	14:29:23	File created	
+1	14:29:27	1 model failed to apply	 Note: Partial success, or failure to identify, usually indicates that the model needs more training.  Correct the identification by hand and then add the fully identified file to the AIM model. Use "Add to existing model(s)" to improve AIM performance. 
+1	14:32:40	Dialogs must be closed before opening another measurement	
+1	14:32:51	File closed	
+1	14:32:52	File loaded from C:\Users\Erin\Documents\ScienceRV\ScienceRV_Practice\paddle_static2022.qtm	
+1	14:35:00	File closed	
+1	14:35:02	Realtime started	
+1	14:36:09	File created	
+1	14:36:39	File closed	
+1	14:36:41	Realtime started	
+1	14:38:23	File created	
+1	14:43:10	File saved as C:\Users\Erin\Documents\ScienceRV\ScienceRV_Practice\paddle_dynamic2.qtm	
+1	14:44:20	File closed	
+1	14:44:21	Realtime started	
+2	15:18:37	File loaded from C:\Users\Erin\Documents\ScienceRV\ScienceRV_Practice\kayla_jump.qtm	
+2	15:27:36	File saved as C:\Users\Erin\Documents\ScienceRV\ScienceRV_Practice\kayla_jump.qtm	
+2	15:27:58	File closed	
+1	15:28:56	File created	
+1	15:38:46	File saved as C:\Users\Erin\Documents\ScienceRV\ScienceRV_Practice\paddle_flat.qtm	
+1	15:38:59	File closed	
+1	15:39:01	Realtime started	
+1	16:18:36	Disconnected	
+1	16:19:29	Realtime started	
+1	16:19:45	Recalibration recommended	Cameras 3 and 5 have very few contributions to the 3D reconstruction.
+1	16:19:45	File created	
+1	16:19:58	1 model failed to apply	 Note: Partial success, or failure to identify, usually indicates that the model needs more training.  Correct the identification by hand and then add the fully identified file to the AIM model. Use "Add to existing model(s)" to improve AIM performance. 
+1	16:20:05	File closed	
+1	16:20:06	Realtime started	
+1	16:21:26	Disconnected	
+1	18:17:12	File loaded from C:\Users\Erin\Documents\ScienceRV\ScienceRV_Practice\paddle_flat.qtm	
+1	18:19:53	File closed	
+1	18:19:56	File loaded from C:\Users\Erin\Documents\ScienceRV\ScienceRV_Practice\paddle_static2022.qtm	
+1	20:12:51	File closed	
+1	20:12:54	File loaded from C:\Users\Erin\Documents\ScienceRV\ScienceRV_Practice\paddle_flat.qtm	
+1	21:10:06	File closed	
